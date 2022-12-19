@@ -7,21 +7,21 @@ This repository contains:
 
 To run this code successfully, first, you must have node installed. Then clone the repository using `git clone <repo url>`, switch to the base folder with `cd OOP-Project` then run `node index.js`. This should be displayed on your console if everything was rightly done:
 <blockquote>
-I am a Butterfly, under the class Anthropoda.
+I am a Butterfly, under the class Anthropoda.<br/>
 I have no backbone and also I am cold blooded
 
-I am a Tilapia, under the class Fish.
+I am a Tilapia, under the class Fish.<br/>
 I have a backbone and also I am cold blooded
 
-I am a Frog, under the class Amphibia.
+I am a Frog, under the class Amphibia.<br/>
 I have a backbone and also I am cold blooded
 
-I am a Tortoise, under the class Reptiles.
+I am a Tortoise, under the class Reptiles.<br/>
 I have a backbone and also I am cold blooded
 
-I am an Eagle, under the class AVES.
+I am an Eagle, under the class AVES.<br/>
 I have a backbone and also I am warm blooded
 
-I am a Cat, under the class Mammal.
+I am a Cat, under the class Mammal.<br/>
 I have a backbone and also I am warm blooded
 </blockquote>
