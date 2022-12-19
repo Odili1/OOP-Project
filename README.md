@@ -7,7 +7,7 @@ This repository contains:
 
 To run this code successfully, first, you must have node installed. Then clone the repository using `git clone <repo url>`, switch to the base folder with `cd OOP-Project` then run `node index.js`. This should be displayed on your console if everything was rightly done:
 
->>> I am a Butterfly, under the class Anthropoda.
+>I am a Butterfly, </br>under the class Anthropoda.
 I have no backbone and also I am cold blooded
 
 I am a Tilapia, under the class Fish.
